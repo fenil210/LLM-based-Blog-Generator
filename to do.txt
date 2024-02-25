@@ -1,0 +1,7 @@
+1) create virtual env
+2) conda activate venv/
+3) feel up requirnemnt.txt and do pip install -r re
+quirements.txt
+3.2) pip install -U langchain-community
+4) build app.py and write streamlet (alternative flask) stuff
+5) streamlit run app.py
