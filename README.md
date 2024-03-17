@@ -1,6 +1,6 @@
 # LLM-based Blog Generation with Streamlit Interface
 
-Welcome to the LLM-based Blog Generation project repository! This project leverages advanced language modeling techniques, particularly the LLaMA 2 model, to produce high-quality blog content based on user-selected topics. The blogs generated are tailored to specific word limits defined by the user and are accessible through an intuitive Streamlit interface. Additionally, integration with Langchain ensures transparency and integrity in content management.
+This project leverages advanced language modeling techniques, particularly the LLaMA 2 model, to produce high-quality blog content based on user-selected topics. The blogs generated are tailored to specific word limits defined by the user and are accessible through an intuitive Streamlit interface. Additionally, integration with Langchain ensures transparency and integrity in content management.
 
 This project serves as an excellent starting point for individuals interested in exploring LLaMA 2, basic Streamlit functionalities, and the fundamentals of Langchain. While this project is currently at a beginner level, it sets the groundwork for more advanced and curated LLM and AI-based projects in the future.
 
